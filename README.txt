@@ -55,7 +55,9 @@ The project uses four datasets:
 - airlines.csv
 - airports.csv
 - flights.csv
-- clean_flights.csv
+- clean_flights.csv (Unable to load these datset due to large size)
+
+
 
 The SQL analysis uses the relational tables, while the Power BI dashboard uses the cleaned dataset.
 
