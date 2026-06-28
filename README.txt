@@ -55,7 +55,8 @@ The project uses four datasets:
 - airlines.csv
 - airports.csv
 - flights.csv
-- clean_flights.csv (Unable to load these datset due to large size)
+- clean_flights.csv 
+(Unable to load these datset due to large size.so uploaded a sample of 20,000–100,000 rows from clean_flights.csv dataset)
 
 
 
