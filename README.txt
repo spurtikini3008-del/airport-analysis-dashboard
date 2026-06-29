@@ -1,4 +1,4 @@
- Airline Operations Data Analysis using PostgreSQL & Power BI
+ Airline Operations Data Analysis using Python, PostgreSQL & Power BI
 
 Project Overview
 This project analyzes airline operations data using PostgreSQL for data modeling and SQL analysis, followed by Power BI for interactive dashboard creation. The objective is to identify airline performance, flight delays, airport traffic, and operational trends.
